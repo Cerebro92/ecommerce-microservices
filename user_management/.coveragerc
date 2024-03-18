@@ -1,0 +1,6 @@
+[run]
+source = user_management
+omit = 
+    tests/*
+    autoapp.py
+
